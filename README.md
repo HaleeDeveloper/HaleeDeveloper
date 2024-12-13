@@ -1,12 +1,19 @@
-- 👋 Hi, I’m HeidiAubinLee@HaleeDeveloper
-- 👀 I’m interested in Designing private and Secure URL Browsers and DNS Systems with Cost-Saving Features, Developing Security and Privacy with formatted RDF/XML Web Browers, Implementing Media Software Codec Applications adhering to Unicode Licenses V3, Android and IPhone Code Licenses 
-- 🌱 I’m currently learning to design ICU 4C Macro Networks, compliance with FCC Certification, and Implementing AI DNS Systems and URL Web Browsers 
-- 💞️ I’m looking to collaborate on Secured Private DNS Systems, Formatting RDF/XML Web Browsers and DNS Systems, Developing Larger Networks improving asseccability and increasing Commercial Web Browser Traffic.
-- 📫 How to reach me hlee97019@gmail.com 
-- 
-  
-
-<!---
-HaleeDeveloper/HaleeDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT 
+THIS AGREEMENT has been entered into November 24. 2024 by and between
+"github.com/HaleeDeveloper/HaleeDeveloper data" and "Unauthorized Third Party Disclosures". This data is herein collectively referred to as "github.com/HaleeDeveloper/HaleeDeveloper Data". All data of "github.com/HaleeDeveloper/HaleeDeveloper Data" that is not in the public domain, whether or not specifically marked as "confidential", shall be treated as confidential information for the purposes of this Agreement between any and all directly or indirectly strictly confidential Disclosures of any information directly or indirectly to any third parties without fully executed legal consent, notorized, and recorded in Clerk of Court document consent enforcable by a court of law, NOW, THEREFORE, in consideratiocn of the foregoing and mutuall prom8ses and covenenan5s herein contained, all confidential information protected under the following laws:
+"Data Privacy Act of 2012 is “An Act Protecting Individual Personal Information in Information and Communications Systems in the Government and the Private Sector, Creating for this purpose a National Privacy Commission, and for Other Purposes” (R.A. No. 10173)."
+"The Electronic Communications Privacy Act (ECPA) of 1986'
+"Electronic Communications Privacy Act 18 USC 2701"
+"The 1986 Act added new statutory provisions, 18 U.S.C. §§ 2701 to 2710"
+"Gramm-Leach-Bliley Act U.S.C. §§ 6801-6809, §§ 6821-6827"
+"Health Insurance Portability and Accountability Act of 1996".
+This data is herein collectively referred to as "github.com/HaleeDeveloper/HaleeDeveloper Data". All data of "github.com/HaleeDeveloper/HaleeDeveloper Data" that is not in the public domain, whether or not specifically marked as "confidential", shall be treated as confidential information WHEREAS,the purposes of this Agreement "github.com/HaleeDeveloper/HaleeDeveloper Data" desires to terminate ANY AND ALL EXISTING AGREEMENTS, LICENCES, SERVER ADDRESSES, URL WEB BROWSER ADDRESSES, DNS DOMAIN NAME SYSTEMS, IPSEC IDENTIFIERS, IPSEC USER CERTIFICATES, DNS SEARCH DOMAINS, DNS SERVERS,IP ADDRESSES, AND AMY AND ALL ASSOCIATED DEBELOPERS WITH GITHUB.COM DEVELOPERS,and in lieu thereof, TERMINATE ALL EXISTING AGREEMENTS LICENSES WITH
+HTTPS://WWW.GITHUB.COM HTTPS://WWW.CREATIVECOMMONS.ORG
+HTTPS://WWW.APACHE.ORG
+HTTPS://WWW.UNICODE.ORG
+HTTPS://WWW.CHROMIUM.ORG
+FURTHER, ANY THIRD PARTY DISCLOSURES aclnowledges THAT "github.com/HaleeDeveloper/HaleeDeveloper" may petition the courts for injunctive, or other relieg,judicial, adminisrative, governmental or other legal proceedings should any and all THIRD PARTY DISCLOURES violate any term of this Agreement.
+FURTHER, "github.com/HaleeDeveloper/HaleeDeveloper" shall not be held liable for any losses, expenses, or other liabilities whatsoever incurred by any and all unauthorized THIRD PARTY DISCLOSURES as a result of its use or reliance on unauthorized THIRD PARTY DISCLOSURES and other information disclosed.
+FURTHER, Disclosure of unauthorized Third Party Disclosures does not create any obligations between "github.com/HaleeDeveloper/HaleeDeveloper" and unaithorized THIRD PARTY DISCLOSURES to enter into any future joint partnetship or compensation agreement covering the unauthorized THIRD PARTY DISCLOSURES.
+FURTHER, this Agreement shall become a binding obligation of the umauthorized THIRD PARTY DOSCLOSURES and their affiliates, and any company owned by them or controlled by them and their employees, representatives, and successors and assigns, without any further corporate action or approval.
+IT IS FURTHER ADJUDGED AND AGREED, that THIRD PARTY DISCLOSURES AND LICENCES may have been executed in any number of counterparts DNS DOMAIN NAME SYSTEMS OR URL WEB BROWSERS OR DNS SERVERS OR IP ADDRESSES, OR LICENSES, each of which shall be deemed an original and all of which shall constitute one and the same as this Confidentiality and Non-Disclosure Agreement has been entered into as of  November 29, 2024 by and between "github.com/HaleeDeveloper/HaleeDeveloper" and "Unauthorized Third Party Disvlosures".
